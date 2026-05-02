@@ -88,6 +88,6 @@
 
 <p align="center">
   <a href="mailto:pavanradhika1982@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/pavan-kumar-k-2302b6259/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/pavankumar2005/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/pvnkmr205"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
